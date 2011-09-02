@@ -1,0 +1,11 @@
+<aegis>
+ <request>
+   <credential name="GRP::video" />
+   <credential name="GRP::pulse-access"/>
+   <credential name="tracker::tracker-miner-fs-access"/>
+   <credential name="Location"/>
+   <credential name="TrackerReadAccess"/>
+   <credential name="TrackerWriteAccess" />
+   <for path="/usr/local/bin/wlan_navi" />
+ </request>
+</aegis>
